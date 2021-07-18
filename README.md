@@ -24,18 +24,9 @@ GitHub Profile
 Updated Resume
 Updated LinkedIn
 
-
-
-
-
 ## Technologies Used
 - Template provided
 - Framework for [Bulma](https://bulma.io/)
-
-
-
-
-
 
 
 ## Project Status
@@ -54,5 +45,5 @@ Future Development:
 
 
 ## Links
-- [GitHub File](https://github.com/shatikka-mcknight/Portfolio-Update-Professional-Materials)
-- [Active Porfolio](https://shatikka-mcknight.github.io/Portfolio-Update-Professional-Materials/)
+- [GitHub File](https://github.com/shatikka-mcknight/Portfolio-Update-Professional-Materials-2.0)
+- [Active 2.0 Porfolio](https://shatikka-mcknight.github.io/Portfolio-Update-Professional-Materials-2.0/)
